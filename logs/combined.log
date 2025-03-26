@@ -1,0 +1,9 @@
+{"level":"info","message":"Calculator microservice running on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /add?num1=10&num2=20 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 10 + 20 = 30","service":"calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /subtract?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction operation: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /multiply?num1=10&num2=5 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication operation: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /divide?num1=10&num2=2 from ::1","service":"calculator-microservice"}
+{"level":"info","message":"Division operation: 10 / 2 = 5","service":"calculator-microservice"}
