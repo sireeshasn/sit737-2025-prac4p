@@ -7,3 +7,10 @@
 {"level":"info","message":"Multiplication operation: 10 * 5 = 50","service":"calculator-microservice"}
 {"level":"info","message":"Incoming Request: GET /divide?num1=10&num2=2 from ::1","service":"calculator-microservice"}
 {"level":"info","message":"Division operation: 10 / 2 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Enhanced calculator microservice running on port 3000","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /power?num1=2&num2=3 from ::1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Exponentiation operation: 2 ^ 3 = 8","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /sqrt?num=16 from ::1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Square root operation: sqrt(16) = 4","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /modulo?num1=10&num2=3 from ::1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Modulo operation: 10 % 3 = 1","service":"enhanced-calculator-microservice"}
